@@ -13,6 +13,18 @@ Este projeto foi feito durante a formação Iniciante em Programação da Oracle
 
 * Flex-box
 
+## Funcionalidades:
+
+* Navegação entre páginas
+
+* Link para redes sociais
+
+* Total responsividade
+
+## Link em funcionamento:
+
+https://portfolio-pedrotolentino.vercel.app/
+
 ## Feito por:
 
 ### Pedro Tolentino

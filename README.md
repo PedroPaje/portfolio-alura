@@ -2,6 +2,10 @@
 Bem-vindos ao meu projeto de portfólio!
 
 ![image](https://raw.githubusercontent.com/PedroPaje/portfolio-alura/main/assets/portfolio.png)
+Imagem ilustrativa do projeto na versão desktop.
+
+![image](https://raw.githubusercontent.com/PedroPaje/portfolio-alura/main/assets/portfolio-responsivo.jpg)
+Imagem ilustrativa do projeto na versão mobile.
 
 Este projeto foi feito durante a formação Iniciante em Programação da Oracle Next Education em conjunto com a Alura.
 
